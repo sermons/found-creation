@@ -1,18 +1,18 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/found-creation",
+  "repository": "sermons/found-creation",
+  "description": "Ps95:1-7 Foundation Series: Creation",
   "keywords": [
     "slides",
-    "lectures",
-    "talks",
+    "sermon",
+    "foundations",
     "ppt"
   ],
   "version": "1.4.0",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "found-creation.seanho.com",
+    "cname": "found-creation.seanho.com",
     "multiplex": {
       "url": "https://mp-seanho00.rhcloud.com:8443/",
       "id": "22bc761ffc97809b"
@@ -23,14 +23,14 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Peace Mennonite Church",
+        "city": "Richmond",
+        "date": "2017-06-25",
         "duration": 0
       }
     ],
     "slides": [
-      "slides/sample.md"
+      "slides/slides.md"
     ],
     "css": [
       {
