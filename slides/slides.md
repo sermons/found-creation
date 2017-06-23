@@ -15,7 +15,7 @@
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-llWjwo200fo-wedding_hands.jpg" -->
-# Commitment &rArr; Learning &rArr; Reorienting
+# Commitment <br/> &rArr; Learning <br/> &rArr; Reorienting
 
 >>>
 + made **commitment** to Christ, but now
@@ -27,11 +27,13 @@
 ## Confessions of Faith
 <div class="imgbox"><div>
 [![Apostle's Creed](static/img/Partrishow-Apostles_Creed.jpg)](http://gameo.org/index.php?title=Apostles%27_Creed)
+<!-- .element: style="max-height: 60%" -->
 <div class="caption">
 [Apostle's Creed](http://gameo.org/index.php?title=Apostles%27_Creed), ~700 and as early as 200
 </div>
 </div><div>
 [![Nicene Creed](static/img/Nicaean_Council.jpg)](https://en.wikipedia.org/wiki/Nicene_Creed)
+<!-- .element: style="max-height: 60%" -->
 <div class="caption">
 [Nicene Creed](https://en.wikipedia.org/wiki/Nicene_Creed), 325
 </div>
