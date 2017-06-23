@@ -57,6 +57,7 @@
 </div>
 </div><div>
 [![Mennonite Catechism](static/img/Catechism_1934.png)](https://archive.org/details/catechismorbrief00elbi)
+<!-- .element: style="max-height: 60%" -->
 <div class="caption">
 [Mennonite Catechism of 1934](https://archive.org/details/catechismorbrief00elbi) <br/>
 (Anabaptist Mennonite Biblical Seminary Library)
