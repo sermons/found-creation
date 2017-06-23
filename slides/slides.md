@@ -2,3 +2,8 @@
 ## Foundation Series 1:
 # Creation
 
+---
+<!-- .slide: data-background="white" -->
+## Who is **God**? <small>(theology)</small>
+## Who are **we**? <small>(anthropology)</small>
+## How are we **saved**? <small>(soteriology)</small>
