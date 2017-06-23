@@ -54,7 +54,7 @@
 (Global Anabaptist Mennonite Encyclopedia Online)
 </div>
 </div><div>
-[![Mennonite Catechism](static/img/Catechism_1934.jpg)](https://archive.org/details/catechismorbrief00elbi)
+[![Mennonite Catechism](static/img/Catechism_1934.png)](https://archive.org/details/catechismorbrief00elbi)
 <div class="caption">
 [Mennonite Catechism of 1934](https://archive.org/details/catechismorbrief00elbi) <br/>
 (Anabaptist Mennonite Biblical Seminary Library)
