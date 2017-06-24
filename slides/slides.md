@@ -71,6 +71,7 @@
 + Elbing, Prussia 1778: widely adopted by Amish + Mennonites
 + Our outline over 5 weeks roughly follows **1934 booklet**
   + organises 218 Q's into outline
++ TODO: note 6-week [workbook](https://archive.org/details/catechismworkboo00unse)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
@@ -85,7 +86,8 @@
   1. **Consummation** <span class="ref">(wk 4-5)</span>
 
 ---
-## Introduction
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
+## The Chief Aim of Man
 + Q1: What should be our **chief aim** in this life?
 + A: To live in God's **fellowship**, <br/>
   enjoy His **favour**, <br/>
@@ -101,3 +103,11 @@ and with all your **mind**."
 Matthew 22:37,39 (ESV)
 </div>
 
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+## Outline for today: Creation
+1. God the **Creator** and **Sustainer**
+1. God Revealed Through His **Works**
+1. God Revealed Through His **Word**
+
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" class="empty" -->
