@@ -27,13 +27,11 @@
 ## Confessions of Faith
 <div class="imgbox"><div>
 [![Apostle's Creed](static/img/Partrishow-Apostles_Creed.jpg)](http://gameo.org/index.php?title=Apostles%27_Creed)
-<!-- .element: style="max-height: 60%" -->
 <div class="caption">
 [Apostle's Creed](http://gameo.org/index.php?title=Apostles%27_Creed), ~700 and as early as 200
 </div>
 </div><div>
 [![Nicene Creed](static/img/Nicaean_Council.jpg)](https://en.wikipedia.org/wiki/Nicene_Creed)
-<!-- .element: style="max-height: 60%" -->
 <div class="caption">
 [Nicene Creed](https://en.wikipedia.org/wiki/Nicene_Creed), 325
 </div>
@@ -57,7 +55,6 @@
 </div>
 </div><div>
 [![Mennonite Catechism](static/img/Catechism_1934.png)](https://archive.org/details/catechismorbrief00elbi)
-<!-- .element: style="max-height: 60%" -->
 <div class="caption">
 [Mennonite Catechism of 1934](https://archive.org/details/catechismorbrief00elbi) <br/>
 (Anabaptist Mennonite Biblical Seminary Library)
@@ -109,9 +106,10 @@ Matthew 22:37,39 (ESV)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
 ## Outline for today: Creation
-1. God the **Creator** and **Sustainer**
-1. God Revealed Through His **Works**
-1. God Revealed Through His **Word**
+1. God the **Creator**
+1. God in **Trinity**
+1. God's **Creation**
+1. God the **Sustainer**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" class="empty" -->
