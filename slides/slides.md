@@ -4,9 +4,9 @@
 
 ---
 <!-- .slide: data-background="white" -->
-## Who is **God**? <small>(theology)</small>
-## Who are **we**? <small>(anthropology)</small>
-## How are we **saved**? <small>(soteriology)</small>
+## Who is **God**? <small>*(theology)*</small>
+## Who are **we**? <small>*(anthropology)*</small>
+## How are we **saved**? <small>*(soteriology)*</small>
 
 >>>
 + **audience**: Christians, believe Bible
@@ -96,7 +96,8 @@
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 You shall **love** the Lord your God <br/>
-with all your **heart** and with all your **soul** <br/>
+with all your **heart** <br/>
+and with all your **soul** <br/>
 and with all your **mind**.
 
 You shall **love** your **neighbour** as yourself.
