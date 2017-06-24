@@ -24,7 +24,6 @@
 + **wedding** only 1 day; **marriage** is for a lifetime
 
 ---
-## Confessions of Faith
 <div class="imgbox"><div>
 [![Apostle's Creed](static/img/Partrishow-Apostles_Creed.jpg)](http://gameo.org/index.php?title=Apostles%27_Creed)
 <div class="caption">
@@ -46,7 +45,6 @@
   + **de-emphasised** memorising short creeds
 
 ---
-## Elbing Catechism
 <div class="imgbox"><div>
 [![Elbing Catechism in German](static/img/Elbing_1824.jpg)](http://gameo.org/index.php?title=Elbing_Catechism)
 <div class="caption">
