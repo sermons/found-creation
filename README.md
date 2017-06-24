@@ -1,4 +1,4 @@
-# Foundation Series: Creation (1/5)
+# One Foundation: Creation (1/5)
 ## Psalm 95:1-7
 
 [![Build status](https://travis-ci.org/sermons/found-creation.svg)](https://travis-ci.org/sermons/found-creation)

@@ -1,9 +1,11 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
-## Foundation Series 1:
+## One Foundation (1)
 # Creation
 
+<div class="ref">
 [(Elbing Catechism)](https://archive.org/details/catechismorbrief00elbi)
 [(Workbook)](https://archive.org/details/catechismworkboo00unse)
+</div>
 
 ---
 <!-- .slide: data-background="white" -->
@@ -28,7 +30,8 @@
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/stocksnap-ZPKNKYW4GH-bullseye.jpg" -->
-[Paul] **witnessed** to them from morning till evening, <br/>
+[Paul] **witnessed** to them <br/>
+from morning till evening, <br/>
 **explaining** about the kingdom of God
 
 <div class="ref">
@@ -94,7 +97,7 @@ Acts 28:23 (NIV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
-## Outline (Elbing Catechism)
+## One Foundation <span class="ref">(Elbing)</span>
 1. **Creation** (who *God* is) <span class="ref">(wk 1)</span>
 1. **Fall** (who *we* are) <span class="ref">(wk 2)</span>
 1. **Redemption** (how we are *saved*)
@@ -138,7 +141,8 @@ Matthew 22:37,39 (ESV)
 1. God the **Sustainer**
 
 ---
-In the **beginning** God created the **heavens** and the **earth**.
+In the **beginning** God created <br/>
+the **heavens** and the **earth**.
 
 <div class="ref">
 Genesis 1:1 (NIV)
@@ -197,8 +201,8 @@ For since the **creation** of the world
 His **invisible** attributes,  <br/>
 His eternal **power** and divine **nature**,
 
-have been **clearly** seen,  <br/>
-being understood through what has been **made**,
+have been **clearly** seen, being understood <br/>
+through what has been **made**,
 
 so that they are **without excuse**.
 
@@ -220,14 +224,17 @@ Romans 1:20 (NASB)
   + is He **cruel**, uncaring, selfish?
 
 ---
-The LORD, the LORD God, **compassionate** and gracious, <br/>
-**slow** to anger, and **abounding** in lovingkindness and truth;
+The LORD, the LORD God, <br/>
+**compassionate** and gracious, <br/>
+**slow** to anger, <br/>
+and **abounding** in lovingkindness and truth;
 
 <span class="ref">7</span>
 who keeps **lovingkindness** for thousands, <br/>
 who **forgives** iniquity, transgression and sin;
 
-yet He will by no means leave the **guilty** unpunished
+yet He will by no means <br/>
+leave the **guilty** unpunished
 
 <div class="ref">
 Exodus 34:6-7 (NASB)
@@ -265,10 +272,10 @@ but men **moved** by the Holy Spirit **spoke** from God.
 
 ---
 <!-- .slide: data-background="white" -->
-# Does **creation** matter?
+# What is my **attitude** toward **creation**?
 
 >>>
-+ What is my **view** on creation?
++ Does it **matter**?
 + "Maybe God created the world, maybe not --
   + "it doesn't matter,
   + "I can still be a Christian, right?"
@@ -334,7 +341,7 @@ be with you all.
 
 ---
 <!-- .slide: data-background="white" -->
-# Is God still **involved** in His creation?
+# Is God still **involved** <br/> in His creation?
 
 >>>
 + blind watchmaker
