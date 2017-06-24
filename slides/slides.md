@@ -24,6 +24,27 @@
 + **wedding** only 1 day; **marriage** is for a lifetime
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/stocksnap-ZPKNKYW4GH-bullseye.jpg" -->
+[Paul] **witnessed** to them from morning till evening, <br/>
+**explaining** about the kingdom of God
+
+<div class="ref">
+Acts 28:23 (NIV)
+</div>
+
+>>>
++ *"witness"* (ἐξετίθετο): **lay out** clearly
+  + God's truth is center of bulls-eye
++ **sin** is anything **else**, deviate from truth
+  + often more **interesting** to learn about **cults**
+  + useful to keep us **grounded**
+  + What if I **relax** this tenet of faith?
+  + How do (JW, Mormons, Muslims, Sikh, Hindu, etc.) **deviate**?
++ but an **infinitude** of falsehoods
+  + only **one** truth
++ Hence why **creeds** can be handy:
+
+---
 <div class="imgbox"><div>
 <div class="caption">
 [Apostle's Creed](http://gameo.org/index.php?title=Apostles%27_Creed), ~700 and as early as 200
