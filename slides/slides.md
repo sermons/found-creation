@@ -71,3 +71,15 @@
 + Elbing, Prussia 1778: widely adopted by Amish + Mennonites
 + Our outline over 5 weeks roughly follows **1934 booklet**
   + organises 218 Q's into outline
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
+## Outline (Elbing Catechism)
+1. **Creation** (who God is) <span class="ref">(wk 1)</span>
+1. **Fall** (who we are) <span class="ref">(wk 2)</span>
+1. **Redemption** (how we are saved)
+  1. Divine **Provision** <span class="ref">(wk 2-3)</span>
+  1. Human **Response**
+    + **Faith** in Christ <span class="ref">(wk 3-4)</span>
+    + **Life** and Conduct <span class="ref">(wk 4)</span>
+  1. **Consummation** <span class="ref">(wk 4-5)</span>
