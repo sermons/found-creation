@@ -220,8 +220,24 @@ Romans 1:20 (NASB)
 + &rArr; to say God doesn't **exist** is
   + to **willfully** reject God's revealed evidence
   + &rArr; **onus** of proof is on **atheist**!
++ God's **works** reveal Him
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+## One Foundation: Creation
+1. God the Creator
+  1. Revealed in His Works
+  1. **Revealed in His Word**
+1. God as Trinity
+1. God's Creation
+  1. Creation of Man
+  1. Creation of Angels
+1. God the Sustainer
+
+>>>
 + But what about God's **character**?
   + is He **cruel**, uncaring, selfish?
++ What does **Scripture** testify?
 
 ---
 The LORD, the LORD God, <br/>
@@ -286,7 +302,15 @@ but men **moved** by the Holy Spirit <br/>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
-## Outline: Trinity
+## One Foundation: Creation
+1. God the Creator
+  1. Revealed in His Works
+  1. Revealed in His Word
+1. **God as Trinity**
+1. God's Creation
+  1. Creation of Man
+  1. Creation of Angels
+1. God the Sustainer
 
 >>>
 + term "Trinity" not in Bible
@@ -351,7 +375,15 @@ John 15:26 (NIV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
-## Outline: Creation
+## One Foundation: Creation
+1. God the Creator
+  1. Revealed in His Works
+  1. Revealed in His Word
+1. God as Trinity
+1. **God's Creation**
+  1. Creation of Man
+  1. Creation of Angels
+1. God the Sustainer
 
 >>>
 + **Trinity** shows up in **how** God created:
@@ -417,7 +449,15 @@ Genesis 1:27 (ESV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
-## Outline: Sustainer
+## One Foundation: Creation
+1. God the Creator
+  1. Revealed in His Works
+  1. Revealed in His Word
+1. God as Trinity
+1. God's Creation
+  1. Creation of Man
+  1. Creation of Angels
+1. **God the Sustainer**
 
 ---
 <!-- .slide: data-background="white" -->
