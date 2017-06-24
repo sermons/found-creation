@@ -153,25 +153,9 @@ Genesis 1:1 (NIV)
   + e.g., physical universe not **eternal**
 + Implies God **pre-existing**
   + un-created
-
----
-By **faith** we understand that <br/>
-the **universe** was formed at God’s **command**, <br/>
-so that what is **seen** <br/>
-was not made out of what was **visible**.
-
-<div class="ref">
-Hebrews 11:3 (NIV)
-</div>
-
->>>
-+ *ex-nihilo*: out of **nothing**
-+ not apprehendable solely via our **logic** / reason / science
-  + requires **trust** in God's account
-  + He is the only **eyewitness** to creation!
-+ But is this **blind** faith? No, both
++ **How** do we know God is the Creator?
   + God's **works** (nature, conscience) and
-  + God's **word** (Scripture) testify He is the Creator:
+  + God's **word** (Scripture) testify:
 
 ---
 But ask the **animals**, and they will teach you, <br/>
@@ -224,7 +208,7 @@ Romans 1:20 (NASB)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
-## One Foundation: Creation
+## One Foundation: *Creation*
 1. God the Creator
   1. Revealed in His Works
   1. **Revealed in His Word**
@@ -302,7 +286,7 @@ but men **moved** by the Holy Spirit <br/>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
-## One Foundation: Creation
+## One Foundation: *Creation*
 1. God the Creator
   1. Revealed in His Works
   1. Revealed in His Word
@@ -375,7 +359,7 @@ John 15:26 (NIV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
-## One Foundation: Creation
+## One Foundation: *Creation*
 1. God the Creator
   1. Revealed in His Works
   1. Revealed in His Word
@@ -429,7 +413,7 @@ Genesis 1:2 (ESV)
 + So where did **people** come from?
 
 ---
-So God **created** man in his own image, <br/>
+So **God** created man in his own image, <br/>
 in the **image of God** he created him; <br/>
 **male** and **female** he created them.
 
@@ -438,9 +422,17 @@ Genesis 1:27 (ESV)
 </div>
 
 >>>
-1. *"created"*
-1. *"image of God"*
-1. *"male and female"*
+1. *"God"*: it was **God** who did it
+1. *"image of God"*: **dignity** + value from God
+  + not just evolved animal
+1. *"male and female"*: **gender** created by God
+  + not up to **us** to define
++ more in ch2 on **roles** of M/F
+  + and in ch3 on **brokenness** of M/F relations
++ what about **angels**?
+
+---
+
 
 ---
 <!-- .slide: data-background="white" -->
@@ -449,7 +441,7 @@ Genesis 1:27 (ESV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
-## One Foundation: Creation
+## One Foundation: *Creation*
 1. God the Creator
   1. Revealed in His Works
   1. Revealed in His Word
