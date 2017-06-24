@@ -75,9 +75,9 @@
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 ## Outline (Elbing Catechism)
-1. **Creation** (who God is) <span class="ref">(wk 1)</span>
-1. **Fall** (who we are) <span class="ref">(wk 2)</span>
-1. **Redemption** (how we are saved)
+1. **Creation** (who *God* is) <span class="ref">(wk 1)</span>
+1. **Fall** (who *we* are) <span class="ref">(wk 2)</span>
+1. **Redemption** (how we are *saved*)
   1. Divine **Provision** <span class="ref">(wk 2-3)</span>
   1. Human **Response**
     + **Faith** in Christ <span class="ref">(wk 3-4)</span>
@@ -88,11 +88,12 @@
 ## Introduction
 + Q1: What should be our **chief aim** in this life?
 + A: To live in God's **fellowship**, <br/>
-  enjoy His **favour**, and <br/>
-  obtain eternal **happiness** thereafter.
+  enjoy His **favour**, <br/>
+  and obtain eternal **happiness** thereafter.
 
-"You shall **love** the Lord your God with all your **heart**
-and with all your **soul** and with all your **mind**."
+"You shall **love** the Lord your God <br/>
+with all your **heart** and with all your **soul** <br/>
+and with all your **mind**."
 
 "You shall **love** your **neighbour** as yourself."
 
