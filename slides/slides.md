@@ -251,12 +251,16 @@ Exodus 34:6-7 (NASB)
   + How can we know what the Bible really **means**?
 
 ---
-But know this first of all, that no **prophecy** of Scripture <br/>
+But know this first of all, <br/>
+that no **prophecy** of Scripture <br/>
 is a matter of one’s own **interpretation**,
 
 <span class="ref">21</span>
-for no prophecy was ever made by an act of **human will**, <br/>
-but men **moved** by the Holy Spirit **spoke** from God.
+for no prophecy was ever made <br/>
+by an act of **human will**,
+
+but men **moved** by the Holy Spirit <br/>
+**spoke** from God.
 
 <div class="ref">
 2 Peter 1:20-21 (NASB)
@@ -290,7 +294,8 @@ but men **moved** by the Holy Spirit **spoke** from God.
 + but Jesus did say:
 
 ---
-Go therefore and make **disciples** of all the nations, <br/>
+Go therefore <br/>
+and make **disciples** of all the nations, <br/>
 **baptizing** them in the name of  <br/>
 the **Father** and the **Son** and the **Holy Spirit**
 
@@ -319,16 +324,91 @@ be with you all.
 + *Father*: **Creator**, judge, mercy: **love**
 + *Son*: **Redeemer**, high priest, sacrifice: **grace**
 + *HS*: **Comforter**, presence, unity: **fellowship**
+  + our Advocate:
+
+---
+When the **Advocate** comes, <br/>
+whom **I will send** to you from the Father -- <br/>
+the **Spirit of truth** who goes out from the **Father** -- <br/>
+he will **testify** about me.
+
+<div class="ref">
+John 15:26 (NIV)
+</div>
+
+>>>
++ *"Advocate"* (παράκλητος): called alongside
+  + encourager, comforter, helper
+  + *testify* (μαρτυρήσει) about Jesus
++ *sent* by **Jesus**
++ *goes out* from the **Father**
 
 ---
 <!-- .slide: data-background="white" -->
-## Is God a **person** or a **force**?
-## Who is **Jesus**?
-## Who is the **Holy Spirit**?
+# Is God a **person** <br/> or a **force**?
+# Who is **Jesus**?
+# The **Holy Spirit**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
 ## Outline: Creation
+
+>>>
++ **Trinity** shows up in **how** God created:
+
+---
+In the beginning was the **Word**, <br/>
+and the Word was **with God**, and the Word **was God**.
+
+<span class="ref">2</span>
+He was with God in the **beginning**.
+
+<span class="ref">3</span>
+**Through** him all things were made; <br/>
+**without** him nothing was made that has been made.
+
+<div class="ref">
+John 1:1-3 (NIV)
+</div>
+
+>>>
++ How **old** is Jesus?
+  + Does Buddhism (6-4th c. BC) **predate** Christianity?
++ *"Word"*: communication, bridge gap, **Immanuel**
++ *"was God"*: equal, same **substance**
++ *"beginning"*: way before **Christmas**
++ *"through"*: **how** God created
++ How about the **HS**?  Was He involved in creation?
+
+---
+The **earth** was without form and void, <br/>
+and darkness was over the face of the **deep**.
+
+And the **Spirit of God** was **hovering** <br/>
+over the face of the waters.
+
+<div class="ref">
+Genesis 1:2 (ESV)
+</div>
+
+>>>
++ HS **present** since creation
++ *"hovering"*: gently, softly, to cause to relax, cherish, brood
++ So where did **people** come from?
+
+---
+So God **created** man in his own image, <br/>
+in the **image of God** he created him; <br/>
+**male** and **female** he created them.
+
+<div class="ref">
+Genesis 1:27 (ESV)
+</div>
+
+>>>
+1. *"created"*
+1. *"image of God"*
+1. *"male and female"*
 
 ---
 <!-- .slide: data-background="white" -->
