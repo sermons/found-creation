@@ -83,3 +83,20 @@
     + **Faith** in Christ <span class="ref">(wk 3-4)</span>
     + **Life** and Conduct <span class="ref">(wk 4)</span>
   1. **Consummation** <span class="ref">(wk 4-5)</span>
+
+---
+## Introduction
++ Q1: What should be our **chief aim** in this life?
++ A: To live in God's **fellowship**, <br/>
+  enjoy His **favour**, and <br/>
+  obtain eternal **happiness** thereafter.
+
+"You shall **love** the Lord your God with all your **heart**
+and with all your **soul** and with all your **mind**."
+
+"You shall **love** your **neighbour** as yourself."
+
+<div class="ref">
+Matthew 22:37,39 (ESV)
+</div>
+
