@@ -240,6 +240,28 @@ Exodus 34:6-7 (NASB)
   + **self**-made improvement
   + rather than **external** God
 + thread: **justice** + **mercy**
++ But that's just one **interpretation**, right?
+  + How can we know what the Bible really **means**?
+
+---
+But know this first of all, that no **prophecy** of Scripture <br/>
+is a matter of one’s own **interpretation**,
+
+<span class="ref">21</span>
+for no prophecy was ever made by an act of **human will**, <br/>
+but men **moved** by the Holy Spirit **spoke** from God.
+
+<div class="ref">
+2 Peter 1:20-21 (NASB)
+</div>
+
+>>>
++ **purpose** of Scripture is to make **known** God's will
+  + not deliberately **obfuscated**
++ but sometimes our **brains** are not there yet
+  + &rArr; need to **study** in more detail
++ or we our **spirits** unwilling to accept
+  + &rArr; Spirit removes **veil** over heart *(2Cor3)*
 
 ---
 <!-- .slide: data-background="white" -->
@@ -254,6 +276,42 @@ Exodus 34:6-7 (NASB)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
 ## Outline: Trinity
+
+>>>
++ term "Trinity" not in Bible
+  + Tertullian, 3rd c.: one in **essence** (ὁμοούσιος), not person
++ but Jesus did say:
+
+---
+Go therefore and make **disciples** of all the nations, <br/>
+**baptizing** them in the name of  <br/>
+the **Father** and the **Son** and the **Holy Spirit**
+
+<div class="ref">
+Matthew 28:19 (NASB)
+</div>
+
+>>>
++ not that Son was **created** or lesser
+  + cf *Arianism* (&rArr; Nicene creed)
++ not **3 Gods**
+  + cf **Islam**: reject Christ as God
++ but what are their particular **characteristics**?
+
+---
+May the **grace** of the Lord **Jesus** Christ, <br/>
+and the **love** of **God**, <br/>
+and the **fellowship** of the **Holy Spirit** <br/>
+be with you all.
+
+<div class="ref">
+2 Corinthians 13:14 (NIV)
+</div>
+
+>>>
++ *Father*: **Creator**, judge, mercy: **love**
++ *Son*: **Redeemer**, high priest, sacrifice: **grace**
++ *HS*: **Comforter**, presence, unity: **fellowship**
 
 ---
 <!-- .slide: data-background="white" -->
