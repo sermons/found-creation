@@ -112,4 +112,5 @@ Matthew 22:37,39 (ESV)
 1. God Revealed Through His **Works**
 1. God Revealed Through His **Word**
 
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" class="empty" -->
