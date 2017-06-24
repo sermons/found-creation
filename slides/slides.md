@@ -25,15 +25,15 @@
 
 ---
 <div class="imgbox"><div>
-[![Apostle's Creed](static/img/Partrishow-Apostles_Creed.jpg)](http://gameo.org/index.php?title=Apostles%27_Creed)
 <div class="caption">
 [Apostle's Creed](http://gameo.org/index.php?title=Apostles%27_Creed), ~700 and as early as 200
 </div>
+[![Apostle's Creed](static/img/Partrishow-Apostles_Creed.jpg)](http://gameo.org/index.php?title=Apostles%27_Creed)
 </div><div>
-[![Nicene Creed](static/img/Nicaean_Council.jpg)](https://en.wikipedia.org/wiki/Nicene_Creed)
 <div class="caption">
 [Nicene Creed](https://en.wikipedia.org/wiki/Nicene_Creed), 325
 </div>
+[![Nicene Creed](static/img/Nicaean_Council.jpg)](https://en.wikipedia.org/wiki/Nicene_Creed)
 </div></div>
 
 >>>
@@ -46,17 +46,17 @@
 
 ---
 <div class="imgbox"><div>
-[![Elbing Catechism in German](static/img/Elbing_1824.jpg)](http://gameo.org/index.php?title=Elbing_Catechism)
 <div class="caption">
 [Elbing Catechism in NA, 1824](http://gameo.org/index.php?title=Elbing_Catechism) <br/>
 (Global Anabaptist Mennonite Encyclopedia Online)
 </div>
+[![Elbing Catechism in German](static/img/Elbing_1824.jpg)](http://gameo.org/index.php?title=Elbing_Catechism)
 </div><div>
-[![Mennonite Catechism](static/img/Catechism_1934.png)](https://archive.org/details/catechismorbrief00elbi)
 <div class="caption">
 [Mennonite Catechism of 1934](https://archive.org/details/catechismorbrief00elbi) <br/>
 (Anabaptist Mennonite Biblical Seminary Library)
 </div>
+[![Mennonite Catechism](static/img/Catechism_1934.png)](https://archive.org/details/catechismorbrief00elbi)
 </div></div>
 
 >>>
@@ -89,7 +89,7 @@
   and obtain eternal **happiness** thereafter.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
 You shall **love** the Lord your God <br/>
 with all your **heart** <br/>
 and with all your **soul** <br/>
@@ -105,9 +105,82 @@ Matthew 22:37,39 (ESV)
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
 ## Outline for today: Creation
 1. God the **Creator**
-1. God in **Trinity**
+  1. Revealed in His **Works**
+  1. Revealed in His **Word**
+1. God as **Trinity**
 1. God's **Creation**
+  1. Creation of **Man**
+  1. Creation of **Angels**
 1. God the **Sustainer**
+
+---
+In the **beginning** God created the **heavens** and the **earth**.
+
+<div class="ref">
+Genesis 1:1 (NIV)
+</div>
+
+>>>
++ Created **time** + **space**
+  + e.g., physical universe not **eternal**
++ Implies God **pre-existing**
+  + un-created
+
+---
+By **faith** we understand that <br/>
+the **universe** was formed at God’s **command**, <br/>
+so that what is **seen** <br/>
+was not made out of what was **visible**.
+
+<div class="ref">
+Hebrews 11:3 (NIV)
+</div>
+
+>>>
++ *ex-nihilo*: out of **nothing**
++ not apprehendable solely via our **logic** / reason / science
+  + requires **trust** in God's account
+  + He is the only **eyewitness** to creation!
+
+---
+<!-- .slide: data-background="white" -->
+# Does **creation** matter?
+
+>>>
++ What is my **view** on creation?
++ "Maybe God created the world, maybe not --
+  + "it doesn't matter,
+  + "I can still be a Christian, right?"
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+## Outline: Trinity
+
+---
+<!-- .slide: data-background="white" -->
+## Is God a **person** or a **force**?
+## Who is **Jesus**?
+## Who is the **Holy Spirit**?
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+## Outline: Creation
+
+---
+<!-- .slide: data-background="white" -->
+# Where did **people** come from?
+# What are **angels**?
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+## Outline: Sustainer
+
+---
+<!-- .slide: data-background="white" -->
+# Is God still **involved** in His creation?
+
+>>>
++ blind watchmaker
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" class="empty" -->
