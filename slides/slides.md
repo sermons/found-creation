@@ -2,6 +2,9 @@
 ## Foundation Series 1:
 # Creation
 
+[(Elbing Catechism)](https://archive.org/details/catechismorbrief00elbi)
+[(Workbook)](https://archive.org/details/catechismworkboo00unse)
+
 ---
 <!-- .slide: data-background="white" -->
 ## Who is **God**? <small>*(theology)*</small>
@@ -87,7 +90,7 @@ Acts 28:23 (NIV)
 + Elbing, Prussia 1778: widely adopted by Amish + Mennonites
 + Our outline over 5 weeks roughly follows **1934 booklet**
   + organises 218 Q's into outline
-+ TODO: note 6-week [workbook](https://archive.org/details/catechismworkboo00unse)
++ TODO: note 6-week 1951 [workbook](https://archive.org/details/catechismworkboo00unse)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
@@ -162,6 +165,81 @@ Hebrews 11:3 (NIV)
 + not apprehendable solely via our **logic** / reason / science
   + requires **trust** in God's account
   + He is the only **eyewitness** to creation!
++ But is this **blind** faith? No, both
+  + God's **works** (nature, conscience) and
+  + God's **word** (Scripture) testify He is the Creator:
+
+---
+But ask the **animals**, and they will teach you, <br/>
+or the **birds** in the sky, and they will tell you;
+
+<span class="ref">8</span>
+or speak to the **earth**, and it will teach you, <br/>
+or let the **fish** in the sea inform you.
+
+<span class="ref">9</span>
+Which of all these does not **know** <br/>
+that the **hand of the Lord** has done this?
+
+<div class="ref">
+Job 12:7-9 (NIV)
+</div>
+
+>>>
++ It is Biblical to study **science**!
+  + zoology, ornithology, geology, marine biology
++ All these **point** to the Creator
++ Even our own **consciences** testify:
+
+---
+For since the **creation** of the world
+
+His **invisible** attributes,  <br/>
+His eternal **power** and divine **nature**,
+
+have been **clearly** seen,  <br/>
+being understood through what has been **made**,
+
+so that they are **without excuse**.
+
+<div class="ref">
+Romans 1:20 (NASB)
+</div>
+
+>>>
++ God has **invisible** (unprovable) attributes:
+  + beyond **time**, beyond **physical** world
++ But they are made **visible** through
+  + **created** things, since beginning of **time**
++ v19 God is the one who made it **evident** (plain)
+  + not vague and **unknowable** (e.g., *agnosticism*)
++ &rArr; to say God doesn't **exist** is
+  + to **willfully** reject God's revealed evidence
+  + &rArr; **onus** of proof is on **atheist**!
++ But what about God's **character**?
+  + is He **cruel**, uncaring, selfish?
+
+---
+The LORD, the LORD God, **compassionate** and gracious, <br/>
+**slow** to anger, and **abounding** in lovingkindness and truth;
+
+<span class="ref">7</span>
+who keeps **lovingkindness** for thousands, <br/>
+who **forgives** iniquity, transgression and sin;
+
+yet He will by no means leave the **guilty** unpunished
+
+<div class="ref">
+Exodus 34:6-7 (NASB)
+</div>
+
+>>>
++ cf **Greek** / Norse gods: *super-hero* mythology
+  + merely **elevated men**
++ Nietzche's aspirational *"Übermensch"*
+  + **self**-made improvement
+  + rather than **external** God
++ thread: **justice** + **mercy**
 
 ---
 <!-- .slide: data-background="white" -->
