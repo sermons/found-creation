@@ -93,11 +93,13 @@
   enjoy His **favour**, <br/>
   and obtain eternal **happiness** thereafter.
 
-"You shall **love** the Lord your God <br/>
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
+You shall **love** the Lord your God <br/>
 with all your **heart** and with all your **soul** <br/>
-and with all your **mind**."
+and with all your **mind**.
 
-"You shall **love** your **neighbour** as yourself."
+You shall **love** your **neighbour** as yourself.
 
 <div class="ref">
 Matthew 22:37,39 (ESV)
