@@ -384,6 +384,7 @@ John 15:26 (NIV)
 + **Trinity** shows up in **how** God created:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 In the beginning was the **Word**, <br/>
 and the Word was **with God**, <br/>
 and the Word **was God**.
@@ -408,6 +409,7 @@ John 1:1-3 (NIV)
 + How about the **HS**?  Was He involved in creation?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
 The **earth** was without form and void, <br/>
 and darkness was over the face of the **deep**.
 
@@ -424,6 +426,7 @@ Genesis 1:2 (ESV)
 + So where did **people** come from?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 So **God** created man in his own image, <br/>
 in the **image of God** he created him; <br/>
 **male** and **female** he created them.
@@ -443,6 +446,7 @@ Genesis 1:27 (ESV)
 + what about **angels**?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-1390463-pezibear-letter_roses.jpg" -->
 Are not all angels **ministering spirits** <br/>
 sent to **serve** those who will inherit salvation?
 
@@ -459,6 +463,7 @@ Hebrews 1:14 (NIV)
   + even Apostle **John** was wowed:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cgPxN5Y27pA-cathedral.jpg" -->
 When I heard and **saw** [these things], <br/>
 I fell down to **worship** at the feet  <br/>
 of the **angel** who showed them to me,
@@ -475,6 +480,7 @@ I am a **fellow servant** with you [...]
 + OK, then what about **demons**?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-in9-n0JwgZ0-lightning.jpg" -->
 And the **angels** who did not stay within <br/>
 their own position of **authority**, <br/>
 but **left** their proper dwelling,
@@ -517,6 +523,7 @@ Jude 1:6 (ESV)
 + easy to forget God's everyday **grace**:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M7fi58_dF5k-cow.jpg" -->
 All creatures **look to you** <br/>
 to give them their **food** at the proper time.
 
@@ -537,6 +544,7 @@ Psalm 104:27-28 (NIV) (p.1/2)
   + fulfilment of our most essential **longings**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M7fi58_dF5k-cow.jpg" -->
 <span class="ref">29</span>
 When you **hide** your face, <br/>
 they are **terrified**;
