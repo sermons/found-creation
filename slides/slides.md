@@ -145,6 +145,7 @@ Matthew 22:37,39 (ESV)
 + &rArr; follow the **Creator**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/earth.jpg" -->
 In the **beginning** God created <br/>
 the **heavens** and the **earth**.
 
@@ -163,6 +164,7 @@ Genesis 1:1 (NIV)
   + God's **word** (Scripture) testify:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GoRsrsoxoL8-fish_blue.jpg" -->
 But ask the **animals**, and they will teach you, <br/>
 or the **birds** in the sky, and they will tell you;
 
@@ -185,6 +187,7 @@ Job 12:7-9 (NIV)
 + Even our own **consciences** testify:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
 For since the **creation** of the world
 
 His **invisible** attributes,  <br/>
@@ -229,6 +232,7 @@ Romans 1:20 (NASB)
 + What does **Scripture** testify?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 The LORD, the LORD God, <br/>
 **compassionate** and gracious, [...] <br/>
 
@@ -254,6 +258,7 @@ Exodus 34:6-7 (NASB)
   + How can we know what the Bible really **means**?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
 No **prophecy** of Scripture <br/>
 is a matter of one’s own **interpretation**,
 
@@ -304,6 +309,7 @@ but men **moved** by the Holy Spirit <br/>
 + but Jesus did say:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3sR_0NhWMEI-water_ocean_calm.jpg"-->
 Go therefore <br/>
 and make **disciples** of all the nations, <br/>
 **baptizing** them in the name of  <br/>
@@ -321,6 +327,7 @@ Matthew 28:19 (NASB)
 + but what are their particular **characteristics**?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-09AhDCedXF8-cross.jpg" -->
 May the **grace** of the Lord **Jesus** Christ, <br/>
 and the **love** of **God**, <br/>
 and the **fellowship** of the **Holy Spirit** <br/>
@@ -337,6 +344,7 @@ be with you all.
   + our Advocate:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
 When the **Advocate** comes, <br/>
 whom I will **send** to you from the Father -- <br/>
 the **Spirit of truth** <br/>
