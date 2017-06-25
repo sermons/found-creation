@@ -15,8 +15,9 @@
 
 >>>
 + **audience**: Christians, believe Bible
-+ want to know **clearly** the core of what we believe
-+ no **shame** in this, even for long-time Christians!
++ want to know **clearly** <br/> the core of what we believe
++ no **shame** in this
+  + even for long-time Christians!
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-llWjwo200fo-wedding_hands.jpg" -->
@@ -26,7 +27,8 @@
 + made **commitment** to Christ, but now
   + grow in **learning** what that means
   + and **orienting** our lives around it
-+ **wedding** only 1 day; **marriage** is for a lifetime
++ **wedding** only 1 day
+  + **marriage** is for a lifetime
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/stocksnap-ZPKNKYW4GH-bullseye.jpg" -->
@@ -41,9 +43,9 @@ Acts 28:23 (NIV)
 >>>
 + *"witness"* (ἐξετίθετο): **lay out** clearly
   + God's truth is center of bulls-eye
-+ **sin** is anything **else**, deviate from truth
-  + often more **interesting** to learn about **cults**
-  + useful to keep us **grounded**
++ **sin** is all **else**: deviate from truth
++ often more **intrst** to learn **cults**
+  + useful to keep us **grounded**:
   + What if I **relax** this tenet of faith?
   + How do (JW, Mormons, Muslims, Sikh, Hindu, etc.) **deviate**?
 + but an **infinitude** of falsehoods
@@ -64,12 +66,15 @@ Acts 28:23 (NIV)
 </div></div>
 
 >>>
-+ **Creed** (confession of faith): short summary of beliefs
-+ **specific** to needs of the day: controversies, heresies
-+ e.g., Nicene is quite **ecumenical**: Catholic, E. Orthodox
-+ Mennonite: Dordrecht Confession of Faith, 1632
-+ Historically, **Mennonites** placed emphasis on reading whole **Bible**
-  + **de-emphasised** memorising short creeds
++ **Creed** (confession of faith):
+  + short summary of beliefs
++ **specific** to needs of the day:
+  + controversies, heresies
++ e.g., Nicene is quite **ecumenical**:
+  + Catholic, E. Orthodox
++ **Mennonite**: Dordrecht Confess. 1632
+  + emphasised read whole **Bible**
+  + not **memorising** creeds
 
 ---
 <div class="imgbox"><div>
@@ -87,13 +92,14 @@ Acts 28:23 (NIV)
 </div></div>
 
 >>>
-+ **Catechism**: Q+A form to teach young Christians
++ **Catechism**: Q+A for young Chr
   + although often **memorised**,
   + orig. intent is **interactive** dialogue
 + Elbing, Prussia 1778: widely adopted by Amish + Mennonites
-+ Our outline over 5 weeks roughly follows **1934 booklet**
-  + organises 218 Q's into outline
-+ TODO: note 6-week 1951 [workbook](https://archive.org/details/catechismworkboo00unse)
++ We roughly follow **1934 booklet**:
+  + organises 218 Q's into **outline**
++ 1951 [workbook](https://archive.org/details/catechismworkboo00unse)
+  for 6-week course
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
@@ -107,6 +113,12 @@ Acts 28:23 (NIV)
     + **Life** and Conduct <span class="ref">(wk 4)</span>
   1. **Consummation** <span class="ref">(wk 4-5)</span>
 
+>>>
++ Main points: creation, fall, redemption
+  + we'll get to **anabaptism**, etc.
++ but **lots** of Qs in our **response**, life and **conduct**
+  + incl. Mennonite **pacifism**, rules on marriage, etc.
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## The Chief Aim of Man
@@ -114,6 +126,14 @@ Acts 28:23 (NIV)
 + A: To live in God's **fellowship**, <br/>
   enjoy His **favour**, <br/>
   and obtain eternal **happiness** thereafter.
+
+>>>
++ First Q of the Elbing **catechism**
++ *"fellowship"*: close **relationship**
++ *"favour"*: implies **obedience**
++ *"happiness"*: but Q2 adds we still need to provide for needs of **body**
+  + while seeking first His **kingdom**
++ I feel Jesus has even better summary:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
@@ -128,6 +148,14 @@ You shall **love** your **neighbour** as yourself.
 Matthew 22:37,39 (ESV)
 </div>
 
+>>>
++ Love **God**, love your **neighbour**
++ But love **defined** by God, not us
++ in order to truly **love**:
+  + need to **know** who God is
++ so today focuses on part 1:
+  + who is **God**?
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
 ## Outline for today: Creation
@@ -141,8 +169,10 @@ Matthew 22:37,39 (ESV)
 1. God the **Sustainer**
 
 >>>
-+ **Why** should we follow God?
-+ &rArr; follow the **Creator**
++ Creation is **foundation** Bible uses
+  + to **reveal** God and show
+  + why He has **authority**
++ Starting from very **first** verse:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/earth.jpg" -->
@@ -160,7 +190,7 @@ Genesis 1:1 (NIV)
   + un-created
 + e.g., manufacturer of **car**
 + **How** do we know God is the Creator?
-  + God's **works** (nature, conscience) and
+  + God's **works** (nature, conscience)
   + God's **word** (Scripture) testify:
 
 ---
@@ -203,16 +233,15 @@ Romans 1:20 (NASB)
 </div>
 
 >>>
-+ God has **invisible** (unprovable) attributes:
-  + beyond **time**, beyond **physical** world
++ **invisible** (unprovable) attribs:
+  + beyond **time** + **physical** world
 + But they are made **visible** through
-  + **created** things, since beginning of **time**
-+ v19 God is the one who made it **evident** (plain)
-  + not vague and **unknowable** (e.g., *agnosticism*)
-+ &rArr; to say God doesn't **exist** is
-  + to **willfully** reject God's revealed evidence
+  + **created** things, from beg of **time**
++ v19 God made it **evident** (plain)
+  + not vague, **unknowable** (*agnostic*)
++ &rArr; to say God doesn't **exist** is to
+  + **willfully** reject revealed evid.
   + &rArr; **onus** of proof is on **atheist**!
-+ God's **works** reveal Him
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
@@ -227,9 +256,10 @@ Romans 1:20 (NASB)
 1. God the Sustainer
 
 >>>
++ OK, so He's **powerful** Creator
 + But what about God's **character**?
   + is He **cruel**, uncaring, selfish?
-+ What does **Scripture** testify?
++ What is tesimony of **Scripture**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
@@ -248,13 +278,13 @@ Exodus 34:6-7 (NASB)
 </div>
 
 >>>
-+ cf **Greek** / Norse gods: *super-hero* mythology
++ **Greek**/Norse gods: *super-hero* myth
   + merely **elevated men**
 + Nietzche's aspirational *"Übermensch"*
   + **self**-made improvement
   + rather than **external** God
-+ thread: **justice** + **mercy**
-+ But that's just one **interpretation**, right?
++ Biblical theme: **justice** + **mercy**
++ But that's just one **interpretation**?
   + How can we know what the Bible really **means**?
 
 ---
@@ -274,12 +304,13 @@ but men **moved** by the Holy Spirit <br/>
 </div>
 
 >>>
-+ **purpose** of Scripture is to make **known** God's will
-  + not deliberately **obfuscated**
-+ but sometimes our **brains** are not there yet
++ **purpose** of Scripture:
+  + make **known** God's will
+  + not deliberately **obfuscate**
++ sometimes our **brains** not there yet
   + &rArr; need to **study** in more detail
-+ or we our **spirits** unwilling to accept
-  + &rArr; Spirit removes **veil** over heart *(2Cor3)*
++ or our **spirits** unwilling to accept
+  + &rArr; Spirit lifts **veil** *(2Cor3)*
 
 ---
 <!-- .slide: data-background="white" -->
@@ -287,8 +318,8 @@ but men **moved** by the Holy Spirit <br/>
 
 >>>
 + Does it **matter**?
-+ "Maybe God created the world, maybe not --
-  + "it doesn't matter,
++ "Maybe God created the world,
+  + "maybe not, it doesn't matter,
   + "I can still be a Christian, right?"
 
 ---
@@ -304,9 +335,10 @@ but men **moved** by the Holy Spirit <br/>
 1. God the Sustainer
 
 >>>
-+ term "Trinity" not in Bible
-  + Tertullian, 3rd c.: one in **essence** (ὁμοούσιος), not person
-+ but Jesus did say:
++ term "**Trinity**" not in Bible
+  + Tertullian, 3rd c.: one in **essence** (ὁμο-ούσιος),
+    not in person
++ but **Jesus** did say:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3sR_0NhWMEI-water_ocean_calm.jpg"-->
@@ -339,8 +371,10 @@ be with you all.
 
 >>>
 + *Father*: **Creator**, judge, mercy: **love**
-+ *Son*: **Redeemer**, high priest, sacrifice: **grace**
-+ *HS*: **Comforter**, presence, unity: **fellowship**
++ *Son*: **Redeemer**, high priest, sacrifice:
+  + **grace**
++ *HS*: **Comforter**, presence, unity:
+  + **fellowship**
   + our Advocate:
 
 ---
@@ -356,8 +390,9 @@ John 15:26 (NIV)
 </div>
 
 >>>
-+ *"Advocate"* (παράκλητος): called alongside
-  + encourager, comforter, helper
++ *"Advocate"* (παράκλητος):
+  + called **alongside**
+  + encourager, **comforter**, helper
   + *testify* (μαρτυρήσει) about Jesus
 + *sent* by **Jesus**
 + *goes out* from the **Father**
@@ -367,6 +402,10 @@ John 15:26 (NIV)
 # Is God a **person** <br/> or a **force**?
 # Who is **Jesus**?
 # The **Holy Spirit**?
+
+>>>
++ e.g., "God is sum of all truths"
++ **persons** of Trinity
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
@@ -402,11 +441,11 @@ John 1:1-3 (NIV)
 >>>
 + How **old** is Jesus?
   + Does Buddhism (6-4th c. BC) **predate** Christianity?
-+ *"Word"*: communication, bridge gap, **Immanuel**
++ *"Word"*: comm, bridge gap, **Immanuel**
 + *"was God"*: equal, same **substance**
 + *"beginning"*: way before **Christmas**
 + *"through"*: **how** God created
-+ How about the **HS**?  Was He involved in creation?
++ How about **HS**?  Involved in creation?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Hans-wave-384385.jpg" -->
@@ -422,7 +461,7 @@ Genesis 1:2 (ESV)
 
 >>>
 + HS **present** since creation
-+ *"hovering"*: gently, softly, to cause to relax, cherish, brood
++ *"hovering"*: gently, softly, to cause to relax, **cherish**, brood
 + So where did **people** come from?
 
 ---
@@ -436,13 +475,13 @@ Genesis 1:27 (ESV)
 </div>
 
 >>>
-1. *"God"*: it was **God** who did it
-1. *"image of God"*: **dignity** + value from God
++ *"God"*: it was **God** who did it
++ *"image"*: **dignity** + value from God
   + not just evolved animal
-1. *"male and female"*: **gender** created by God
++ *"M/F"*: **gender** created by God
   + not up to **us** to define
 + more in ch2 on **roles** of M/F
-  + and in ch3 on **brokenness** of M/F relations
+  + ch3: **broken** M/F relations
 + what about **angels**?
 
 ---
@@ -456,9 +495,11 @@ Hebrews 1:14 (NIV)
 
 >>>
 + *"angels"* (ἄγγελοι): **messengers**
-+ *"ministering"* (λειτουργικὰ): for **worship** of God
-+ *"serve"* (διακονίαν): deacon, **wating tables**
-+ *"spirits"*: so not bound by **physical** laws
++ *"ministering"* (λειτουργικὰ):
+  + for **worship** of God
++ *"serve"* (διακονίαν):
+  + deacon, **wating tables**
++ *"spirits"*: not bound by **phys** laws
   + tempting to **study** angels more
   + even Apostle **John** was wowed:
 
@@ -472,10 +513,16 @@ of the **angel** who showed them to me,
 but he said to me, “You **must not** do that! <br/>
 I am a **fellow servant** with you [...]
 
-**Worship God**.”
+**Worship God**!”
+
+<div class="ref">
+Revelation 22:8-9 (ESV)
+</div>
 
 >>>
-+ remember: angels are **created**, not Creator
++ **twice**! (also Rev 19:10)
++ remember: angels are **created**
+  + not Creator
 + keep **focus** on Christ
 + OK, then what about **demons**?
 
@@ -493,16 +540,23 @@ Jude 1:6 (ESV)
 </div>
 
 >>>
-+ *"authority"* (ἀρχὴν): under God's authority
-+ *"left"* (ἀπολιπόντας): deserted, forsook
-+ *"kept"* (τετήρηκεν): has reserved, e.g., jail
++ *"authority"* (ἀρχὴν): under God
++ *"left"* (ἀπολιπόντας): desert, forsook
++ *"kept"* (τετήρηκεν): has reserved
+  + e.g., jail
 + *"judgment"* (κρίσιν): final destiny
-  + not *yin-yang* **balance** of good vs evil!
+  + not *yin-yang* **balance**!
 
 ---
 <!-- .slide: data-background="white" -->
 # Where did **people** come from?
 # What are **angels**?
+
+>>>
++ **image of God**: dignity, value
+  + human **rights** defined by God
++ angels: **messengers**
+  + **created**, not Creator
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
@@ -517,8 +571,8 @@ Jude 1:6 (ESV)
 1. **God the Sustainer**
 
 >>>
-+ is God **still** involved in the world today?
-+ or just created world and **walked away**?
++ God **still** involved in world today?
++ or just created and **walked away**?
   + pain of imagining an **absent** God
 + easy to forget God's everyday **grace**:
 
@@ -539,9 +593,10 @@ Psalm 104:27-28 (NIV) (p.1/2)
 </div>
 
 >>>
-+ *"look to you"*: eager **expectation**, waiting upon
++ *"look to you"*: eager **expectation**
+  + **waiting** upon
 + *"satisfied"*: have our fill, **enough**:
-  + fulfilment of our most essential **longings**
+  + fulfil our most essential **longings**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M7fi58_dF5k-cow.jpg" -->
@@ -569,6 +624,10 @@ Psalm 104:29-30 (NIV) (p.2/2)
 <!-- .slide: data-background="white" -->
 # Is God still **involved** <br/> in His creation?
 
+>>>
++ He still **care-takes**
++ He still **rules**
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 ## One Foundation <span class="ref">(Elbing)</span>
@@ -580,6 +639,15 @@ Psalm 104:29-30 (NIV) (p.2/2)
     + Faith in Christ <span class="ref">(wk 3-4)</span>
     + Life and Conduct <span class="ref">(wk 4)</span>
   1. Consummation <span class="ref">(wk 4-5)</span>
+
+>>>
++ Today: who **God** is
++ Next time: who **we** are
+  + Perfect **creation**
+  + **Fallen** by sin
+  + God's **plan** to save us
++ Are people essentially **good** or **bad**?
++ Close by reading **Ps95** together:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
@@ -595,7 +663,7 @@ Psalm 95:4-5 (NIV) (p.1/2)
 </div>
 
 >>>
-+ Scripture repeatedly points to **creation**
++ Scripture points to **creation**
   + why God **rules** over the world ...
 
 ---
@@ -614,7 +682,7 @@ Psalm 95:6-7 (NIV) (p.2/2)
 </div>
 
 >>>
-+ ... and what our **response** should be
++ ... and what our **response** should be:
 + a right **relationship** with Him:
   + our **God**, His **people**
   + **sheep** to **shepherd**
