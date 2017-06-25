@@ -502,12 +502,106 @@ Jude 1:6 (ESV)
   1. Creation of Angels
 1. **God the Sustainer**
 
+>>>
++ is God **still** involved in the world today?
++ or just created world and **walked away**?
+  + pain of imagining an **absent** God
++ easy to forget God's everyday **grace**:
+
+---
+All creatures **look to you** <br/>
+to give them their **food** at the proper time.
+
+<span class="ref">28</span>
+When you **give** it to them, <br/>
+they **gather** it up;
+
+when you **open** your hand, <br/>
+they are **satisfied** with good things.
+
+<div class="ref">
+Psalm 104:27-28 (NIV) (p.1/2)
+</div>
+
+>>>
++ *"look to you"*: eager **expectation**, waiting upon
++ *"satisfied"*: have our fill, **enough**:
+  + fulfilment of our most essential **longings**
+
+---
+<span class="ref">29</span>
+When you **hide** your face, <br/>
+they are **terrified**;
+
+when you take away their **breath**, <br/>
+they **die** and return to the dust.
+
+<span class="ref">30</span>
+When you send your **Spirit**, <br/>
+they are **created**, <br/>
+and you **renew** the face of the ground.
+
+<div class="ref">
+Psalm 104:29-30 (NIV) (p.2/2)
+</div>
+
+>>>
++ every **breath** is God's grace
++ role of **HS** in **creation** + **renewal**
+
 ---
 <!-- .slide: data-background="white" -->
 # Is God still **involved** <br/> in His creation?
 
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
+## One Foundation <span class="ref">(Elbing)</span>
+1. **Creation** (who *God* is) <span class="ref">(wk 1)</span>
+1. Fall (who *we* are) <span class="ref">(wk 2)</span>
+1. Redemption (how we are *saved*)
+  1. Divine Provision <span class="ref">(wk 2-3)</span>
+  1. Human Response
+    + Faith in Christ <span class="ref">(wk 3-4)</span>
+    + Life and Conduct <span class="ref">(wk 4)</span>
+  1. Consummation <span class="ref">(wk 4-5)</span>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+In his hand are the **depths** of the earth, <br/>
+and the **mountain peaks** belong to him.
+
+<span class="ref">5</span>
+The **sea** is his, for he **made** it, <br/>
+and his hands formed the **dry land**.
+
+<div class="ref">
+Psalm 95:4-5 (NIV) (p.1/2)
+</div>
+
 >>>
-+ blind watchmaker
++ Scripture repeatedly points to **creation**
+  + why God **rules** over the world ...
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+<span class="ref">6</span>
+Come, let us **bow down** in worship, <br/>
+let us **kneel** before the Lord our Maker;
+
+<span class="ref">7</span>
+for he is our **God** <br/>
+and we are the **people** of his pasture, <br/>
+the **flock** under his care.
+
+<div class="ref">
+Psalm 95:6-7 (NIV) (p.2/2)
+</div>
+
+>>>
++ ... and what our **response** should be
++ a right **relationship** with Him:
+  + our **God**, His **people**
+  + **sheep** to **shepherd**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" class="empty" -->
