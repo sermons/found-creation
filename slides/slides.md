@@ -140,6 +140,10 @@ Matthew 22:37,39 (ESV)
   1. Creation of **Angels**
 1. God the **Sustainer**
 
+>>>
++ **Why** should we follow God?
++ &rArr; follow the **Creator**
+
 ---
 In the **beginning** God created <br/>
 the **heavens** and the **earth**.
@@ -153,6 +157,7 @@ Genesis 1:1 (NIV)
   + e.g., physical universe not **eternal**
 + Implies God **pre-existing**
   + un-created
++ e.g., manufacturer of **car**
 + **How** do we know God is the Creator?
   + God's **works** (nature, conscience) and
   + God's **word** (Scripture) testify:
@@ -225,9 +230,7 @@ Romans 1:20 (NASB)
 
 ---
 The LORD, the LORD God, <br/>
-**compassionate** and gracious, <br/>
-**slow** to anger, <br/>
-and **abounding** in lovingkindness and truth;
+**compassionate** and gracious, [...] <br/>
 
 <span class="ref">7</span>
 who keeps **lovingkindness** for thousands, <br/>
@@ -251,8 +254,7 @@ Exodus 34:6-7 (NASB)
   + How can we know what the Bible really **means**?
 
 ---
-But know this first of all, <br/>
-that no **prophecy** of Scripture <br/>
+No **prophecy** of Scripture <br/>
 is a matter of one’s own **interpretation**,
 
 <span class="ref">21</span>
@@ -336,8 +338,9 @@ be with you all.
 
 ---
 When the **Advocate** comes, <br/>
-whom **I will send** to you from the Father -- <br/>
-the **Spirit of truth** who goes out from the **Father** -- <br/>
+whom I will **send** to you from the Father -- <br/>
+the **Spirit of truth** <br/>
+who **goes out** from the Father -- <br/>
 he will **testify** about me.
 
 <div class="ref">
@@ -374,14 +377,14 @@ John 15:26 (NIV)
 
 ---
 In the beginning was the **Word**, <br/>
-and the Word was **with God**, and the Word **was God**.
+and the Word was **with God**, <br/>
+and the Word **was God**.
 
 <span class="ref">2</span>
 He was with God in the **beginning**.
 
 <span class="ref">3</span>
-**Through** him all things were made; <br/>
-**without** him nothing was made that has been made.
+**Through** him all things were made
 
 <div class="ref">
 John 1:1-3 (NIV)
@@ -432,7 +435,55 @@ Genesis 1:27 (ESV)
 + what about **angels**?
 
 ---
+Are not all angels **ministering spirits** <br/>
+sent to **serve** those who will inherit salvation?
 
+<div class="ref">
+Hebrews 1:14 (NIV)
+</div>
+
+>>>
++ *"angels"* (ἄγγελοι): **messengers**
++ *"ministering"* (λειτουργικὰ): for **worship** of God
++ *"serve"* (διακονίαν): deacon, **wating tables**
++ *"spirits"*: so not bound by **physical** laws
+  + tempting to **study** angels more
+  + even Apostle **John** was wowed:
+
+---
+When I heard and **saw** [these things], <br/>
+I fell down to **worship** at the feet  <br/>
+of the **angel** who showed them to me,
+
+<span class="ref">9</span>
+but he said to me, “You **must not** do that! <br/>
+I am a **fellow servant** with you [...]
+
+**Worship God**.”
+
+>>>
++ remember: angels are **created**, not Creator
++ keep **focus** on Christ
++ OK, then what about **demons**?
+
+---
+And the **angels** who did not stay within <br/>
+their own position of **authority**, <br/>
+but **left** their proper dwelling,
+
+he has **kept** in eternal chains under gloomy darkness <br/>
+until the **judgment** of the great day
+
+<div class="ref">
+Jude 1:6 (ESV)
+</div>
+
+>>>
++ *"authority"* (ἀρχὴν): under God's authority
++ *"left"* (ἀπολιπόντας): deserted, forsook
++ *"kept"* (τετήρηκεν): has reserved, e.g., jail
++ *"judgment"* (κρίσιν): final destiny
+  + not *yin-yang* **balance** of good vs evil!
 
 ---
 <!-- .slide: data-background="white" -->
