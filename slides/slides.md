@@ -116,7 +116,10 @@ Acts 28:23 (NIV)
 >>>
 + Main points: creation, fall, redemption
   + we'll get to **anabaptism**, etc.
-+ but **lots** of Qs in our **response**, life and **conduct**
++ caution: **outline** struct is content, too! 
+  + crafted by men, prone to **revision**
+  + why Menno. **avoid**
++ **lots** of Qs in our **response**, life and **conduct**
   + incl. Mennonite **pacifism**, rules on marriage, etc.
 
 ---
