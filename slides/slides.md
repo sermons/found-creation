@@ -3,8 +3,10 @@
 # Creation
 
 <div class="ref">
+
 [(Elbing Catechism)](https://archive.org/details/catechismorbrief00elbi)
 [(Workbook)](https://archive.org/details/catechismworkboo00unse)
+
 </div>
 
 ---
@@ -55,14 +57,22 @@ Acts 28:23 (NIV)
 ---
 <div class="imgbox"><div>
 <div class="caption">
+
 [Apostle's Creed](http://gameo.org/index.php?title=Apostles%27_Creed), ~700 and as early as 200
+
 </div>
+
 [![Apostle's Creed](static/img/Partrishow-Apostles_Creed.jpg)](http://gameo.org/index.php?title=Apostles%27_Creed)
+
 </div><div>
 <div class="caption">
+
 [Nicene Creed](https://en.wikipedia.org/wiki/Nicene_Creed), 325
+
 </div>
+
 [![Nicene Creed](static/img/Nicaean_Council.jpg)](https://en.wikipedia.org/wiki/Nicene_Creed)
+
 </div></div>
 
 >>>
@@ -79,16 +89,24 @@ Acts 28:23 (NIV)
 ---
 <div class="imgbox"><div>
 <div class="caption">
+
 [Elbing Catechism in NA, 1824](http://gameo.org/index.php?title=Elbing_Catechism) <br/>
 (Global Anabaptist Mennonite Encyclopedia Online)
+
 </div>
+
 [![Elbing Catechism in German](static/img/Elbing_1824.jpg)](http://gameo.org/index.php?title=Elbing_Catechism)
+
 </div><div>
 <div class="caption">
+
 [Mennonite Catechism of 1934](https://archive.org/details/catechismorbrief00elbi) <br/>
 (Anabaptist Mennonite Biblical Seminary Library)
+
 </div>
+
 [![Mennonite Catechism](static/img/Catechism_1934.png)](https://archive.org/details/catechismorbrief00elbi)
+
 </div></div>
 
 >>>
